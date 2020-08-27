@@ -15,5 +15,5 @@ For instance, ../core, ../data, ../visual
 For instance, ../save/DBN
 3. The main body consists of the data pre-process part and three model parts.
 4. The best way to run this program is to run it from the top to the bottom.
-5. The program is msc.ipynb, stored in the root path, like ../msc.ipynb. 
+5. The main program is msc.ipynb, should be stored in the root path to run, like ../msc.ipynb. 
 Thus, this file contains not only the codes, but also some great results and figures.
