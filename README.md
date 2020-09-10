@@ -2,7 +2,7 @@
 Aneurysm missing data imputation by deep learning using imaging and simulation data.
 
 All the codes are run on Google Coloab, using Python 3.
-Before run this pogram, we need to connect Google Colab and Google Drive.
+Before run this pogram, we need to connect Google Colab with Google Drive.
 
 Data:
 1. All the datasets are stored on Google Driven, as the path My Drive/Msc/data/.
